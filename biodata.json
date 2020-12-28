@@ -1,0 +1,19 @@
+{
+    "biodata": {
+        "nama" : "Sabrina Zahra Salsabila",
+        "nim" : "118140177",
+        "hobi" : "Main game, nonton, baca komik",
+        "alamat" : {
+            "#text" : "Saya tinggal di",
+            "jalan" : "Nangka",
+            "perumahan" : "The Angkasa Estate",
+            "kota" : "Bandar Lampung",
+        },
+        "mediaSosial": {
+            "instagram" : "sabrinazahrasalsabila",
+        },
+        "game" : {
+            "MMORPG" : "Perfect World dan Genshin Impact"
+        }
+    }
+}
