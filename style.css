@@ -1,0 +1,84 @@
+body{
+	font-family: Georgia, Times;
+	background: black;
+
+}
+
+img{
+	width: 90px;
+}
+
+.bingkai{
+	width: 784px;
+	margin: 20px auto 20px auto;
+	border: 2px solid white;
+}
+
+.bingkai .header{
+	background: #964B00;
+	width: 784px;
+	height: 200px;
+	font-size: 20px;
+}
+
+.clear{
+	clear: both;
+}
+
+.badan{
+	height: auto;
+}
+
+.bingkai .badan .sidebar{
+	background: #8B0000;
+	float: left;
+	height: auto;
+	width: 200px;
+}
+
+.bingkai .badan .content{
+	background: white;
+	float: left;
+	height: auto;
+	width: 584px;
+}
+
+article {
+	clear: both;
+	overflow: auto;
+	width: 100%;
+}
+
+hgroup {
+	margin-top: 10px;
+}
+
+figure {
+	float: left;
+	border: 10px solid #EEEEEE;
+}
+
+figcaption {
+	font-size: 70%;
+	text-align: center;
+}
+
+a {
+	color: white;
+	text-decoration: none;}
+
+h1 {
+	margin: 0px 0px 10px 0px;
+	color: white;
+}
+
+h3 {
+	margin: 0px 0px 10px 0px;
+	color: #DF744A
+}
+
+.bingkai .footer{
+	background: #FFD700;
+	width: 784px;
+	height: 100px;
+}
